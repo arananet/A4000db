@@ -16,8 +16,12 @@ Important! If you like this project, buy me a beer or a Mercedes Benz SLR whatev
 
 # Images
 
-<img src="https://github.com/arananet/A4000db/blob/master/img/1.png?raw=true" width="700">
-<img src="https://github.com/arananet/A4000db/blob/master/img/2.png?raw=true" width="700">
+<img src="https://github.com/arananet/A4000db/blob/master/img/1.png?raw=true" width="700"/>
+<img src="https://github.com/arananet/A4000db/blob/master/img/2.png?raw=true" width="700"/>
+
+# Vga bracket
+
+<img src="https://github.com/arananet/A4000db/blob/master/img/vgabracket.jpg?raw=true?raw=true" width="700"/>
 
 # Updates
 21/08/2018 Initial release.
