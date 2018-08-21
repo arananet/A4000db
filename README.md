@@ -12,7 +12,7 @@ I will try to add more features to this DB when I can. The idea is to have a goo
 
 Gerbers are on the gerbers folder. Remember to say to your favorite pcb service that is a good recommendation to make bevel cut on the edge connectors (knows as 45º chamfered border)
 
-# If you like this project, buy me a beer or a Mercedes Benz SLR whatever you want :) - info@arananet.net
+Important! If you like this project, buy me a beer or a Mercedes Benz SLR whatever you want :) - info@arananet.net
 
 # Images
 
