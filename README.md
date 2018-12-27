@@ -10,11 +10,13 @@ This is a work in progress, several testing must be made but it should work as i
 
 I will try to add more features to this DB when I can. The idea is to have a good DB replacement or a better one if you don't have any.
 
-Gerbers are on the gerbers folder. Remember to say to your favorite pcb service that is a good recommendation to make bevel cut on the edge connectors (knows as 45º chamfered border)
-
-Update: Some users have found a little of difficulty to plug large boards like CV3D or Fastlane using the Daughterboard. Until the next release, the easy fix is to remove the plastic guides from the front of the a4000 (those brown ones) on the slots that is gonna be used for the large boards. The zorro slots are displaced like ½mm to the right and must go to the left.
+Gerbers are on the gerbers folder. Remember to say to your favorite pcb service that is a good recommendation to make bevel cut on the edge connectors (knows as 45º chamfered border).
 
 Important! If you like this project, buy me a beer or a Mercedes Benz SLR whatever you want :) - info@arananet.net
+
+Update 27/12/2018: Some users have found a little of difficulty to plug large boards like CV3D or Fastlane using the Daughterboard. Until the next release, the easy fix is to remove the plastic guides from the front of the a4000 (those brown ones) on the slots that is gonna be used for the large boards. The zorro slots are displaced like ½mm to the right and must go to the left.
+
+
 
 # Images
 
