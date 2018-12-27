@@ -12,6 +12,8 @@ I will try to add more features to this DB when I can. The idea is to have a goo
 
 Gerbers are on the gerbers folder. Remember to say to your favorite pcb service that is a good recommendation to make bevel cut on the edge connectors (knows as 45º chamfered border)
 
+Update: Some users have found a little of difficulty to plug large boards like CV3D or Fastlane using the Daughterboard. Until the next release, the easy fix is to remove the plastic guides from the front of the a4000 (those brown ones) on the slots that is gonna be used for the large boards. The zorro slots are displaced like ½mm to the right and must go to the left.
+
 Important! If you like this project, buy me a beer or a Mercedes Benz SLR whatever you want :) - info@arananet.net
 
 # Images
@@ -24,7 +26,9 @@ Important! If you like this project, buy me a beer or a Mercedes Benz SLR whatev
 <img src="https://github.com/arananet/A4000db/blob/master/img/vgabracket.jpg?raw=true?raw=true" width="400"/>
 
 # Updates
+27/12/2018 Notes updated about using large boards.
 21/08/2018 Initial release.
+
 
 # Bill of materials
 | Part          | Value                   | Package                        |
