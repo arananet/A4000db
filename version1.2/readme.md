@@ -2,9 +2,9 @@
 
 * Adjusted Zorro slots ½ mm to the left.
 * Video connector, less wide at bottom.
-* Changed Molex connector a floppy type.
+* Changed Molex connector to a floppy type.
 * Changed entire board to make it 4 Layer instead of 2 layers and routed it again.
-* Bottom connectors are now rounded so They Can fit nicely on the onboard connectors.
+* Bottom connectors are now rounded so they can fit nicely on the onboard connectors.
 * Added a breakout part than can be removed in case more space for cables needed.
 * Add an external clock footprint to in case main clock must be different from the onboard clock. This can be enable or disabled by setting a jumper on place. Usefull for boards like videotoaster.
 * Added the /C1 signal on the VGA connector (pin 16) in case a future S-VIDEO/Composite hat is developed. (thx. to Chucky for the tip).
