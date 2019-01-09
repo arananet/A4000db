@@ -29,7 +29,7 @@ Note: For the videoslot you need to dremel a 100 pin connector in half in order 
 
 Update 27/12/2018: Some users have found a little of difficulty to plug large boards like CV3D or Fastlane using the Daughterboard. An easy fix is to remove the plastic guides from the front of the a4000 (those brown ones) on the slots that is gonna be used for the large boards. The zorro slots are displaced like ½mm to the right and must go to the left.
 
-# PCB order info (to setup on your favorite PCB fabricator).
+# PCB order info for version 1.2 (to setup on your favorite PCB fabricator).
 
 Dimensions :	102 x 302 mm  
 Layers :	4 layers  
