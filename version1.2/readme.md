@@ -1,5 +1,3 @@
-Second version of my A4000 Daughterboard.
-
 # This new release fixes a few things:
 
 * Adjusted Zorro slots ½ mm to the left.
