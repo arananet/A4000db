@@ -25,20 +25,20 @@
 
 # PCB order info (to setup on your favorite PCB fabricator).
 
-Dimensions :	102 x 302 mm
-Layers :	4 layers
-Layer order: GTL, G1, G2, GBL
-Finished Copper :	1 oz Cu
-PCB Kinds:	2 (because the breakable are)
-Track/Spacing:	6/6mil
-Blind/Buried Via:	No
-Material :	Normal FR-4 Board TG150
-Thickness :	1.6 mm
-Solder Mask :	Whatever color you want :)
-Silkscreen :	Whatever color you want :)
-Surface Finish :	Immersion gold (recommended)
-Hole Size :	0.4
-Golden Finger Beveling:	Yes
+Dimensions :	102 x 302 mm  
+Layers :	4 layers  
+Layer order: GTL, G1, G2, GBL  
+Finished Copper :	1 oz Cu  
+PCB Kinds:	2 (because the breakable are)  
+Track/Spacing:	6/6mil  
+Blind/Buried Via:	No  
+Material :	Normal FR-4 Board TG150  
+Thickness :	1.6 mm  
+Solder Mask :	Whatever color you want :)  
+Silkscreen :	Whatever color you want :)  
+Surface Finish :	Immersion gold (recommended)  
+Hole Size :	0.4  
+Golden Finger Beveling:	Yes  
 
 # BOM
 
