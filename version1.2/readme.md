@@ -29,7 +29,7 @@ Dimensions :	102 x 302 mm
 Layers :	4 layers  
 Layer order: GTL, G1, G2, GBL  
 Finished Copper :	1 oz Cu  
-PCB Kinds:	2 (because the breakable are)  
+PCB Kinds:	2 (because the breakable area)  
 Track/Spacing:	6/6mil  
 Blind/Buried Via:	No  
 Material :	Normal FR-4 Board TG150  
