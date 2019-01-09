@@ -84,4 +84,6 @@ Golden Finger Beveling:	Yes
 | ENABLE        | JUMPER                  | 1X02                           |
 | EXTERNALXCLK  | EXTERNALCLOCK           | DIL14S                         |
 
+# Feedback
 
+If you find any error on this description, please drop me an email to info@arananet.net.
