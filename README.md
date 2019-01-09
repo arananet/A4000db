@@ -29,20 +29,6 @@ Note: For the videoslot you need to dremel a 100 pin connector in half in order 
 
 Update 27/12/2018: Some users have found a little of difficulty to plug large boards like CV3D or Fastlane using the Daughterboard. An easy fix is to remove the plastic guides from the front of the a4000 (those brown ones) on the slots that is gonna be used for the large boards. The zorro slots are displaced like ½mm to the right and must go to the left.
 
-# VGA pinout (Starting from right to left):
-
-| TOP PINROW    | BOTTOM PINROW |
-| ------------- | ------------- |
-| 1 RED         | 2 GREEN       |
-| 3 BLUE        | 4 NC          |
-| 5 NC          | 6 GND         |
-| 7 GND         | 8 GND         |
-| 9 NC          | 10 GND        |
-| 11 NC         | 12 NC         |
-| 13 HSYNC      | 14 VSYNC      |
-| 15 NC         | 16 /C1        |
-
-
 # PCB order info (to setup on your favorite PCB fabricator).
 
 Dimensions :	102 x 302 mm  
@@ -77,6 +63,19 @@ V1.1
 <img src="https://github.com/arananet/A4000db/blob/master/img/vgabracket.jpg?raw=true?raw=true" width="400"/>
 
 https://www.ebay.de/itm/original-Asus-Slotblech-VGA-FLATKabel-15P-TO-16P-P-N-14001-00450000/201663185333 
+
+# VGA pinout (Starting from right to left):
+
+| TOP PINROW    | BOTTOM PINROW |
+| ------------- | ------------- |
+| 1 RED         | 2 GREEN       |
+| 3 BLUE        | 4 NC          |
+| 5 NC          | 6 GND         |
+| 7 GND         | 8 GND         |
+| 9 NC          | 10 GND        |
+| 11 NC         | 12 NC         |
+| 13 HSYNC      | 14 VSYNC      |
+| 15 NC         | 16 /C1        |
 
 # Updates
 
