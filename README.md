@@ -10,13 +10,13 @@ This is a work in progress, several testing must be made but it should work as i
 
 I will try to add more features to this DB when I can. The idea is to have a good DB replacement or a better one if you don't have any.
 
-Gerbers are separated in two version / folders:  
+###### Gerbers are separated in two version / folders:  
 
-Version 1.1 is the first release of the board.
+###### Version 1.1 is the first release of the board.
 
 Update 27/12/2018: Some users have found a little of difficulty to plug large boards like CV3D or Fastlane using the Daughterboard. An easy fix is to remove the plastic guides from the front of the a4000 (those brown ones) on the slots that is gonna be used for the large boards. The zorro slots are displaced like ½mm to the right and must go to the left.
 
-Version 1.2 fixes a few mistakes and improves others.
+###### Version 1.2 fixes a few mistakes and improves others.
 
 * Adjusted Zorro slots ½ mm to the left.
 * Video connector, less wide at bottom.
