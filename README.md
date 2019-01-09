@@ -1,6 +1,6 @@
 # A4000DB
 
-This is a recreation of the Amiga 4000 Daughter Board made from ground using the A4000 original schematics. It includes all the Zorro slots and also include a VGA 15khz output connector to use with a VGA metal bracket. The ISA ports has been removed from the design. Some new options has beed added on the new version 1.2.
+This is a recreation of the Amiga 4000 DaughterBoard. I have made it from ground using the A4000 original schematics. It includes all the Zorro slots and also include a VGA 15khz output connector to use with a VGA metal bracket. The ISA ports has been removed from the design. Some new options has beed added on the new version 1.2.
 
 This work great on all the Amiga 4000 versions, except of course the A4000T.
 
