@@ -29,6 +29,37 @@ Note: For the videoslot you need to dremel a 100 pin connector in half in order 
 
 Update 27/12/2018: Some users have found a little of difficulty to plug large boards like CV3D or Fastlane using the Daughterboard. An easy fix is to remove the plastic guides from the front of the a4000 (those brown ones) on the slots that is gonna be used for the large boards. The zorro slots are displaced like ½mm to the right and must go to the left.
 
+# VGA pinout (Starting from right to left):
+
+| TOP PINROW    | BOTTOM PINROW |
+| ------------- | ------------- |
+| 1 RED         | 2 GREEN       |
+| 3 BLUE        | 4 NC          |
+| 5 NC          | 6 GND         |
+| 7 GND         | 8 GND         |
+| 9 NC          | 10 GND        |
+| 11 NC         | 12 NC         |
+| 13 HSYNC      | 14 VSYNC      |
+| 15 NC         | 16 /C1        |
+
+
+# PCB order info (to setup on your favorite PCB fabricator).
+
+Dimensions :	102 x 302 mm  
+Layers :	4 layers  
+Layer order: GTL, G1, G2, GBL  
+Finished Copper :	1 oz Cu  
+PCB Kinds:	2 (because the breakable area)  
+Track/Spacing:	6/6mil  
+Blind/Buried Via:	No  
+Material :	Normal FR-4 Board TG150  
+Thickness :	1.6 mm  
+Solder Mask :	Whatever color you want :)  
+Silkscreen :	Whatever color you want :)  
+Surface Finish :	Immersion gold (recommended)  
+Hole Size :	0.4  
+Golden Finger Beveling:	Yes  
+
 # Images
 
 V1.2  
