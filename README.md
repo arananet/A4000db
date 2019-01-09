@@ -10,11 +10,9 @@ This is a work in progress, several testing must be made but it should work as i
 
 I will try to add more features to this DB when I can. The idea is to have a good DB replacement or a better one if you don't have any.
 
+Note: For the videoslot you need to dremel a 100 pin connector in half in order to put it on place.
+
 ###### Gerbers are separated in two version / folders:  
-
-###### Version 1.1 is the first release of the board.
-
-Update 27/12/2018: Some users have found a little of difficulty to plug large boards like CV3D or Fastlane using the Daughterboard. An easy fix is to remove the plastic guides from the front of the a4000 (those brown ones) on the slots that is gonna be used for the large boards. The zorro slots are displaced like ½mm to the right and must go to the left.
 
 ###### Version 1.2 fixes a few mistakes and improves others.
 
@@ -26,6 +24,10 @@ Update 27/12/2018: Some users have found a little of difficulty to plug large bo
 * Added a breakout part than can be removed in case more space for cables needed.
 * Add an external clock footprint to in case main clock must be different from the onboard clock. This can be enable or disabled by setting a jumper on place. Usefull for boards like videotoaster.
 * Added the /C1 signal on the VGA connector (pin 16) in case a future S-VIDEO/Composite hat is developed. (thx. to Chucky for the tip).
+
+###### Version 1.1 is the first release of the board.
+
+Update 27/12/2018: Some users have found a little of difficulty to plug large boards like CV3D or Fastlane using the Daughterboard. An easy fix is to remove the plastic guides from the front of the a4000 (those brown ones) on the slots that is gonna be used for the large boards. The zorro slots are displaced like ½mm to the right and must go to the left.
 
 # Images
 
@@ -53,4 +55,6 @@ https://www.ebay.de/itm/original-Asus-Slotblech-VGA-FLATKabel-15P-TO-16P-P-N-140
 
 21/08/2018 Initial release.
 
-Note: For the videoslot you need to dremel a 100 pin connector in half in order to put it on place.
+# Feedback
+
+If you find any error on this description, please drop me an email to info@arananet.net or you could also buy me a beer :p
