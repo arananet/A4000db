@@ -23,7 +23,9 @@ Note: For the videoslot you need to dremel a 100 pin connector in half in order 
 * Bottom connectors are now rounded so they can fit nicely on the onboard connectors.
 * Added a breakout part than can be removed in case more space for cables needed.
 * Add an external clock footprint to in case main clock must be different from the onboard clock. This can be enable or disabled by setting a jumper on place. Usefull for boards like videotoaster.
-* Added the /C1 signal on the VGA connector (pin 16) in case a future S-VIDEO/Composite hat is developed. (thx. to Chucky for the tip).
+* Added the /C1 signal on the VGA connector (pin 16) in case a future S-VIDEO/Composite hat is developed. (thx. to Chucky for the tip).  
+
+BOM is inside the version 1.2.
 
 #### Version 1.1 is the first release of the board.
 
