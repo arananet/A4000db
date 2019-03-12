@@ -40,6 +40,13 @@ Surface Finish :	Immersion gold (recommended)
 Hole Size :	0.4  
 Golden Finger Beveling:	Yes  
 
+# Video connector part
+
+- 36 pins : 2-5530843-7
+- 54 pins : 5-645394-1
+
+Thanks to cosmos for the part number.
+
 # BOM
 
 # Bill of materials
