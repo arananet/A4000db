@@ -15,6 +15,9 @@ I will try to add more features to this DB when I can. The idea is to have a goo
 
 Note: For the videoslot you need to dremel a 100 pin connector in half in order to put it on place.
 
+## Important note regarding the additional power connector on the top.
+In order to avoid any shortcut between the floppy connector (used to enforce the power lines) that is located at the top of the daughterboard, you need to isolate it properly by using a kapton or any electrical tape type, since the connector pins could accidentally git the metal producing a shortcut in any of the lines.
+
 #### Gerbers are separated in two version / folders:  
 
 #### Version 1.2 fixes a few mistakes and improves others.
