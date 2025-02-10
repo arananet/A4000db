@@ -1,12 +1,12 @@
 # This new release fixes a few things:
 
 * Adjusted Zorro slots ½ mm to the left.
-* Video connector, less wide at bottom.
+* Video connector, less wide at the bottom.
 * Changed Molex connector to a floppy type.
-* Changed entire board to make it 4 Layer instead of 2 layers and routed it again.
-* Bottom connectors are now rounded so they can fit nicely on the onboard connectors.
-* Added a breakout part than can be removed in case more space for cables needed.
-* Add an external clock footprint to in case main clock must be different from the onboard clock. This can be enable or disabled by setting a jumper on place. Usefull for boards like videotoaster.
+* Changed the entire board to make it 4 Layers instead of 2 layers and routed it again.
+* Bottom connectors are now rounded to fit nicely on the onboard connectors.
+* Added a breakout part that can be removed if more space for cables is needed.
+* Add an external clock footprint in case the main clock must be different from the onboard clock. This can be enabled or disabled by setting a jumper in place. Useful for boards like videotoaster.
 * Added the /C1 signal on the VGA connector (pin 16) in case a future S-VIDEO/Composite hat is developed. (thx. to Chucky for the tip).
 
 # VGA pinout (Starting from right to left):
@@ -45,7 +45,7 @@ Golden Finger Beveling:	Yes
 - 36 pins : 2-5530843-7
 - 54 pins : 5-645394-1
 
-Thanks to cosmos for the part number.
+Thanks to Cosmos for the part number.
 
 # BOM
 
@@ -53,6 +53,7 @@ Thanks to cosmos for the part number.
 | Part          | Value                   | Package                        |
 | ------------- | ----------------------- | ------------------------------ |          
 | C1            | 100NF                   | 1206                           |
+| C2            | 100NF                   | 1206                           |
 | C3            | 100NF                   | 1206                           |
 | C5            | 100NF                   | 1206                           |
 | C559          | 100uf-220uf/16v         | E2,5-7                         |
